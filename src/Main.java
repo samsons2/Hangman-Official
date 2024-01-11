@@ -1,7 +1,7 @@
 /*
 a. Samson Suen
 b. Jan 10 2024
-c. End of Semester Assignment
+c. Assignment 1 (Hangman)
 d. Ms Nahar, websites (research as cited in Doc)
 e. This is my Hangman project. Enjoy :)
 */
