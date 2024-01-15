@@ -21,7 +21,7 @@ public class Main {
         int hint = 1;
         System.out.println("Hello, welcome to hangman! You have " + lives + " lives. A random word will be generated for you to guess, with each dash representing a character. You can guess characters \nin the word or the word. If you guess the wrong character/word, you lose a life. Good luck! \nNote: You have one hint per game. For a hint, press '3'");
         word = selectDifficultyAndGetWord(hangManWordList, word, difficulty) ;
-        System.out.println(word); //for testing
+        //System.out.println(word); //for testing
         dashes = printDashes(dashes, word);
         StringBuilder dash = new StringBuilder(dashes);
         System.out.println("Here is the hanging area:");
